@@ -1,2 +1,3 @@
 # apnacollegedemo
-this ismy first git repository
+this is my first git repository
+mehul agarwal
